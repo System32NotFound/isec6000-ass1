@@ -1,5 +1,7 @@
 ## README
 
+This is a readme for the instructions to run the forked saleor platform from: 
+https://github.com/System32NotFound/saleor-platform.git
 
 The instructions are on how to run on LINUX (UBUNTU)
 ### What is Saleor Platform?
